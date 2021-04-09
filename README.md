@@ -21,7 +21,7 @@ Amounts below are from the 2021 report above.
 | Morgan Stanley   | $20.4 B |
 | U.S. Bank        | $7.2 B |
 
-### [Amalgamated Bank](https://www.amalgamatedbank.com)
+### Amalgamated Bank [(link)](https://www.amalgamatedbank.com)
 
 #### Certs/Awards
 
@@ -47,7 +47,7 @@ Give-back checking/savings acct: bank donates amount equal to half the interest 
 Debit: Mastercard
 Credit: Mastercard offered through [First National Bank of Omaha](https://www.firstbankcard.com/mpp/amalgamatedbank/consumer/web-mc.html)
 
-### [Aspiration](https://www.aspiration.com/)
+### Aspiration [(link)](https://www.aspiration.com/)
 
 #### Certs/Awards
 
