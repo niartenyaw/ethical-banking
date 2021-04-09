@@ -44,8 +44,8 @@ Give-back checking/savings acct: bank donates amount equal to half the interest 
 
 #### Issuer
 
-Debit: Mastercard
-Credit: Mastercard offered through [First National Bank of Omaha](https://www.firstbankcard.com/mpp/amalgamatedbank/consumer/web-mc.html)
+- Debit: Mastercard
+- Credit: Mastercard offered through [First National Bank of Omaha](https://www.firstbankcard.com/mpp/amalgamatedbank/consumer/web-mc.html)
 
 ### Aspiration [(link)](https://www.aspiration.com/)
 
@@ -76,5 +76,5 @@ Investment:
 
 #### Issuer
 
-Debit: Mastercard
-Credit: Mastercard
+- Debit: Mastercard
+- Credit: Mastercard
