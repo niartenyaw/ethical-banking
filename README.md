@@ -71,7 +71,7 @@ Issuer: Mastercard offered through [First National Bank of Omaha](https://www.fi
 
 - All above plus:
 - Up to 1.00% APY on your savings
-- Option to plant a tree with every swipe
+- Option to plant a tree with every round (? unsure what this means)
 
 ##### Credit Card
 
@@ -84,3 +84,9 @@ Issuer: Mastercard offered through [First National Bank of Omaha](https://www.fi
 #### Investment
 
 [The Aspiration Redwood Fund](https://funds.aspiration.com/redwood/) is a fossil fuel-free fund.
+
+### Other Bank Considerations
+
+- [Clean Energy Credit Union](https://www.cleanenergycu.org/home/accounts/savings) "your federally insured deposits are used to help other members afford to use clean energy"
+- [Sunrise Banks](https://sunrisebanks.com) only in Minnesota
+- [Other responsible credit cards](https://www.greenamerica.org/better-banking/take-charge-your-card/find-responsible-credit-cards)
