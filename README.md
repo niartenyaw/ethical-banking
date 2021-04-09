@@ -38,7 +38,7 @@ Amounts below are from the 2021 report above.
 - "We do not lend to fossil fuel companies"
 - "First to endorse and [one of three US banks](https://www.unepfi.org/banking/bankingprinciples/signatories/) to sign the [UN Principles for Responsible Banking](https://www.unepfi.org/banking/bankingprinciples/)"
 - "Committed to aligning all of our business practices with the [Paris Climate Accords](https://en.wikipedia.org/wiki/Paris_Agreement)"
-- "Committed to measuring and reporting [Scope 3 emissions](Committed to aligning all of our business practices with the Paris Climate Accords)"
+- "Committed to measuring and reporting [Scope 3 emissions](https://www.epa.gov/climateleadership/scope-3-inventory-guidance)"
 - Account option: "Give-back checking/savings acct", bank donates amount equal to half the interest earned to participating org of your choice
 
 #### Credit Card
