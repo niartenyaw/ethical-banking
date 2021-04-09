@@ -38,9 +38,11 @@ Amounts below are from the 2021 report above.
 - "First to endorse and [one of three US banks](https://www.unepfi.org/banking/bankingprinciples/signatories/) to sign the [UN Principles for Responsible Banking](https://www.unepfi.org/banking/bankingprinciples/)"
 - "Committed to aligning all of our business practices with the [Paris Climate Accords](https://en.wikipedia.org/wiki/Paris_Agreement)"
 - "Committed to measuring and reporting [Scope 3 emissions](Committed to aligning all of our business practices with the Paris Climate Accords)"
+- Account option: "Give-back checking/savings acct", bank donates amount equal to half the interest earned to participating org of your choice
 
-Account options:
-Give-back checking/savings acct: bank donates amount equal to half the interest earned to participating org
+Investment:
+
+- [100% Fossil Fuel Free Portfolio](https://www.amalgamatedbank.com/fossil-fuel-free-portfolio) contains mutual funds and ETFs
 
 #### Issuer
 
@@ -64,15 +66,18 @@ Pay what you can:
 - "Personal impact score to help you shop to match your values"
 
 $7.99/mo
-- All above plus
-- "Up to 1.00% APY on your savings"
-- "Option to plant a tree with every swipe"
+- All above plus:
+- Up to 1.00% APY on your savings
+- Option to plant a tree with every swipe
+
+Credit:
 - [_Zero_](https://www.aspiration.com/zero/) credit card (coming soon)
   - "We plant a tree every time you make a purchase — and let you plant one too."
   - Allow you to offset your carbon footprint somehow, non-specific
 
 Investment:
-- "sustainable cash management services and [investment products](https://funds.aspiration.com/redwood/)"
+- "sustainable cash management services"
+- [The Aspiration Redwood Fund](https://funds.aspiration.com/redwood/) is a fossil fuel-free fund
 
 #### Issuer
 
