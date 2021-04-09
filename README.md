@@ -9,15 +9,17 @@ This document is specifically focused on climate. There is much more info on oth
 
 ## Banks
 
-Not considered for their large scale investment in fossil fuels 2016 through 2020.
-Amounts shown below were 2020 investments, information pulled from 2021 report above.
+The following banks were not considered due to their large scale investment in fossil fuels 2016 through 2020.
+Amounts below are from the 2021 report above.
 
-- JP Morgan Chase:  $51.3 B
-- CITI:             $48.4 B
-- Bank of America:  $42.1 B
-- Wells Fargo:      $26.4 B
-- Morgan Stanley:   $20.4 B
-- U.S. Bank:        $7.2 B
+| Company          | Fossil Fuel Investment 2020 |
+| ---------------- | --------------------------- |
+| JP Morgan Chase  | $51.3 B |
+| CITI             | $48.4 B |
+| Bank of America  | $42.1 B |
+| Wells Fargo      | $26.4 B |
+| Morgan Stanley   | $20.4 B |
+| U.S. Bank        | $7.2 B |
 
 ### [Amalgamated Bank](https://www.amalgamatedbank.com)
 
