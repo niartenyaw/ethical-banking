@@ -29,9 +29,10 @@ Amounts below are from the 2021 report above.
 - [The Global Alliance for Banking on Values](https://www.gabv.org/the-community/members/banks)
 - [Green America’s Green Business Network](https://www.greenamerica.org/all-business-listings?field_search_terms_value=bank&title=)
 
-#### Features
+#### Info
 
 - Mobile app
+- Debit issuer: Mastercard
 - "100% carbon neutral in our operations"
 - "Pledged to not invest in fossil fuels and support 100% clean energy"
 - "We do not lend to fossil fuel companies"
@@ -40,14 +41,13 @@ Amounts below are from the 2021 report above.
 - "Committed to measuring and reporting [Scope 3 emissions](Committed to aligning all of our business practices with the Paris Climate Accords)"
 - Account option: "Give-back checking/savings acct", bank donates amount equal to half the interest earned to participating org of your choice
 
-Investment:
+#### Credit Card
 
-- [100% Fossil Fuel Free Portfolio](https://www.amalgamatedbank.com/fossil-fuel-free-portfolio) contains mutual funds and ETFs
+Issuer: Mastercard offered through [First National Bank of Omaha](https://www.firstbankcard.com/mpp/amalgamatedbank/consumer/web-mc.html)
 
-#### Issuer
+#### Investment
 
-- Debit: Mastercard
-- Credit: Mastercard offered through [First National Bank of Omaha](https://www.firstbankcard.com/mpp/amalgamatedbank/consumer/web-mc.html)
+[100% Fossil Fuel Free Portfolio](https://www.amalgamatedbank.com/fossil-fuel-free-portfolio) contains mutual funds and ETFs
 
 ### Aspiration [(link)](https://www.aspiration.com/)
 
@@ -56,30 +56,31 @@ Investment:
 - [Certified B-Corp](https://en.wikipedia.org/wiki/B_Corporation_(certification))
 - [Green America’s Green Business Network](https://www.greenamerica.org/all-business-listings?field_search_terms_value=bank&title=)
 
-#### Features
+#### Info
 
 - Mobile app
+- Debit issuer: Mastercard
 
-Pay what you can:
+##### Pay what you can account
+
 - "Deposits won't fund fossil fuel exploration or production"
 - "tallies up the carbon output of all of your gas purchases, then automatically buys offsets to help counter the climate impact"
 - "Personal impact score to help you shop to match your values"
 
-$7.99/mo
+##### $7.99/mo account
+
 - All above plus:
 - Up to 1.00% APY on your savings
 - Option to plant a tree with every swipe
 
-Credit:
-- [_Zero_](https://www.aspiration.com/zero/) credit card (coming soon)
-  - "We plant a tree every time you make a purchase — and let you plant one too."
-  - Allow you to offset your carbon footprint somehow, non-specific
+##### Credit Card
 
-Investment:
-- "sustainable cash management services"
-- [The Aspiration Redwood Fund](https://funds.aspiration.com/redwood/) is a fossil fuel-free fund
+[_Zero_](https://www.aspiration.com/zero/) credit card (coming soon)
 
-#### Issuer
+- Issuer: Mastercard
+- "We plant a tree every time you make a purchase — and let you plant one too."
+- Allow you to offset your carbon footprint somehow, non-specific
 
-- Debit: Mastercard
-- Credit: Mastercard
+#### Investment
+
+[The Aspiration Redwood Fund](https://funds.aspiration.com/redwood/) is a fossil fuel-free fund.
