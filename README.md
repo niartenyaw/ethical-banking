@@ -1,6 +1,8 @@
 # Ethical Banking in the US
 
-This document is focused on climate-based ethical banking, specifically **fossil fuel divestment**. There is much more info on other social justice issues on each company's website. That said, Amalgamated has by far the most efforts.
+This document is focused on climate-based ethical banking, __*specifically fossil fuel divestment*__. Green/sustainable investments are mandatory for us to move away from fossil fuels, but [nothing would accelerate the reduction of CO2 emissions the way that fossil fuel divestment would](https://www.newyorker.com/news/daily-comment/money-is-the-oxygen-on-which-the-fire-of-global-warming-burns).
+
+There is more info on other social issues on each company's website. That said, Amalgamated has by far the most efforts across all issues.
 
 ## Background
 
